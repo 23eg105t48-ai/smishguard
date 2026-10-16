@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SmishguardApplication<smishguard>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.smishguard.smishguard.SmishguardApplication",
+            "projectName": "smishguard",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

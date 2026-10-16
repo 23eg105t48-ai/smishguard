@@ -1,0 +1,29 @@
+HDFC Bank,debit,Rs\.\d+(\.\d{2})? debited from A/c XX\d{4}
+HDFC Bank,credit,Rs\.\d+(\.\d{2})? credited to A/c XX\d{4}
+HDFC Bank,otp,\d{4,8} is your OTP for .*Do not share
+HDFC Bank,upi,UPI txn of Rs\.\d+ (?:sent to|received from)
+HDFC Bank,balance,Avl Bal Rs\.[0-9,]+
+HDFC Bank,emi,EMI of Rs\.\d+ due on \d{2}-\w{3}-\d{2,4}
+State Bank of India,debit,Rs\d+(\.\d{2})? debited from SBI A/c
+State Bank of India,credit,Rs\d+ credited to your SBI A/c
+State Bank of India,otp,Your OTP for SBI (?:NetBanking|YONO) is \d{4,8}
+State Bank of India,upi,UPI Ref \d+ Rs\d+ (?:sent|received)
+State Bank of India,balance,SBI Bal Rs\.[0-9,]+
+ICICI Bank,debit,ICICI Bank Acct XX\d{4} debited with Rs\d+
+ICICI Bank,credit,Rs\d+ credited to ICICI Bank Acct
+ICICI Bank,otp,\d{6} is OTP for ICICI Bank txn
+ICICI Bank,upi,Dear Customer, Rs\d+ (?:sent to|received from) .* via UPI
+Axis Bank,debit,Rs\d+(\.\d{2})? debited from Axis Bank A/c XX\d{4}
+Axis Bank,credit,Rs\d+ credited to Axis Bank A/c
+Axis Bank,otp,\d{6} is your OTP for Axis Bank
+Kotak Bank,debit,Rs\d+(\.\d{2})? debited from Kotak A/c
+Kotak Bank,otp,\d{6} is your Kotak Bank OTP
+PNB,debit,Rs\d+ debited from PNB A/c
+PNB,credit,Rs\d+ credited to PNB A/c
+Bank of Baroda,debit,Rs\d+ debited .*BOB A/c
+Canara Bank,debit,Canara Bank: Rs\d+ debited
+IndusInd Bank,debit,Rs\d+ debited from IndusInd A/c
+IDFC First Bank,debit,Rs\d+ debited from IDFC FIRST Bank A/c
+Yes Bank,debit,Rs\d+ debited from Yes Bank A/c
+Paytm,credit,Rs\d+ (?:added to|received in) your Paytm wallet
+Paytm,debit,Rs\d+ (?:paid to|debited from) your Paytm

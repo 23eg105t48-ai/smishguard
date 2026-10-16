@@ -1,0 +1,40 @@
+"Rs.300 debited from Axis A/c XXXXXX7788. Avl Bal Rs.8,700.",genuine,debit,Axis,BT-AXISBK
+"Rs.2,000 credited to HDFC A/c XXXXXX3344. Avl Bal Rs.22,000.",genuine,credit,HDFC,VK-HDFCBK
+"Your OTP for SBI txn is <OTP>. Valid 5 mins. Never share.",genuine,otp,SBI,AX-SBIINB
+"ICICI Bank: UPI Rs.500 sent to BigBasket. Ref XXXXXX888. Bal Rs.9,500",genuine,upi,ICICI,JD-ICICIB
+"Kotak Bank: Card XX3456 used Rs.1,500 at Croma. Avl limit Rs.23,500. 05-Oct-26",genuine,card_spend,Kotak,MN-KOTAKB
+"PNB: EMI Rs.4,200 auto-debited for Car Loan. A/c XXXXXX6789. 05-Oct-26",genuine,emi_reminder,PNB,GP-PNBSMS
+"Bank of Baroda: NEFT Rs.8,000 received from Kotak. Avl Bal Rs.18,000. 05-Oct-26",genuine,neft_imps,BOB,RA-BOBSMS
+"Canara Bank: Salary Rs.35,000 credited to A/c XXXXXX1111. Avl Bal Rs.38,000.",genuine,credit,Canara,SD-CNRBNK
+"IndusInd Bank: OTP for Indus Mobile is <OTP>. Do not share.",genuine,otp,IndusInd,QR-INDBNK
+"IDFC FIRST: Rs.600 debited via UPI. A/c XXXXXX2222. Bal Rs.4,400. 05-Oct-26",genuine,debit,IDFC,PM-IDFCFB
+"Yes Bank: A/c XXXXXX3333 Bal Rs.7,800 as of 05-Oct-26. For query call 1800-1200",genuine,balance,YesBank,TN-YESBKG
+"Amazon Pay: Rs.899 paid for Amazon order using Pay balance. Avl Bal Rs.101. 05-Oct-26",genuine,debit,Amazon,BE-AMZNPY
+"Paytm: Rs.50 received from Vikram via UPI. Paytm Bal Rs.300. 05-Oct-26",genuine,credit,Paytm,AD-PYTMBK
+"Union Bank: FD Rs.20,000 matured. Amount credited to A/c XXXXXX4444. 05-Oct-26",genuine,credit,Union,KL-UNIBIK
+"SBI: ATM cash Rs.5,000 withdrawn. A/c XXXXXX5678. Avl Bal Rs.8,500. 05-Oct-26 12:30",genuine,debit,SBI,AX-SBIINB
+"HDFC Bank: Your account XXXXXX1234 password updated. If not done by you call 1800-XXX-XXXX",genuine,service_alert,HDFC,VK-HDFCBK
+"Axis Bank: 5000 reward points earned on card XX9012. Redeem at https://axisbank.com/rewards",genuine,promotional,Axis,BT-AXISBK
+"ICICI Bank: Cheque XXXXXX023 for Rs.12,000 cleared. A/c XX1234. 05-Oct-26",genuine,service_alert,ICICI,JD-ICICIB
+"Kotak Bank: Your Kotak 811 account <OTP> is OTP for login. Valid 5 min. Do not share.",genuine,otp,Kotak,MN-KOTAKB
+"SBI: Card XX5678 used Rs.3,200 at Big Bazaar. Avl credit limit Rs.46,800. 05-Oct-26",genuine,card_spend,SBI,AX-SBIINB
+"HDFC account BLOCKED due to KYC pending!!! Update at http://hdfc-kyc.xyz or lose access FOREVER. Do it NOW",fake,kyc_update,HDFC,9988774455
+"Congratulations!!! You won Rs.1,50,000 in PNB Diwali Lucky Draw. Share your A/c details to <PHONE> to claim prize today only",fake,lottery,PNB,8800112233
+"ICICI Bank: Rs.22,000 debited without your knowledge? Call <PHONE> NOW and share OTP to reverse this fraudulent transaction",fake,fake_debit_alert,ICICI,9901234456
+"SBI account suspend ho jayega. Abhi update karo PAN Aadhaar at http://sbi-update.info nahi toh account permanently close hoga",fake,kyc_update,SBI,7600123456
+"Axis Bank: Your reward points will EXPIRE tonight. Redeem Rs.5,000 cashback at http://axisrewards.click Enter CVV to confirm",fake,fake_rewards,Axis,9100112233
+"Free Rs.2,000 added to your Amazon Pay! Claim within 1 hour at http://amazon-cashback.top Login with Amazon credentials",fake,fake_rewards,Amazon,8009876543
+"Kotak Bank loan Rs.3,00,000 approved for you! No documents required. Disbursed within 1 hour. Click http://kotak-loan.xyz",fake,fake_loan,Kotak,9800234567
+"HDFC Bank fraud alert: Unauthorized APK being used on your A/c. Install HDFC Shield now: http://bit.ly/hdfcshield",fake,apk_download,HDFC,9988001234
+"BOB customer care: Your account access restricted. Call <PHONE> and provide NetBanking password to restore access",fake,otp_request,BOB,7799001234
+"ICICI: KYC incomplete account will close in 12 hours. Upload Aadhaar+PAN at http://icicibankkyc.top Otherwise permanent block",fake,kyc_update,ICICI,8801122334
+"Canara Bank Rs.50,000 loan at 0% interest! No paper work! Claim at http://tinyurl.com/canaraloan today last chance!",fake,fake_loan,Canara,9012345679
+"Yes Bank: UPI refund Rs.8,000 pending since 3 days. Verify A/c at http://yesbank-upi.live and enter OTP to receive refund",fake,upi_refund,YesBank,7812345098
+"URGENT: IndusInd Bank detected suspicious login. Call our executive <PHONE> immediately share your card CVV to stop fraud",fake,otp_request,IndusInd,8766001234
+"Union Bank: Lucky customer! Rs.25,000 reward waiting. Call <PHONE> now and confirm bank details. Offer expires TODAY",fake,lottery,Union,9023409876
+"Install Paytm Security Update APK from http://cutt.ly/paytmsec to prevent unauthorized access. Valid today only",fake,apk_download,Paytm,8199001234
+"PNB: Your account has been hacked. Share your PNB NetBanking OTP with our fraud team at <PHONE> to secure your account now",fake,otp_request,PNB,9788001234
+"SBI: Rs.45,000 credited to wrong A/c. To reverse click http://sbi-reverse.xyz and verify your card number and expiry",fake,upi_refund,SBI,7611234567
+"HDFC Bank: Apka account suspend ho raha hai! Turant is link par click karein: http://hdfcverify.top aur KYC complete karein",fake,kyc_update,HDFC,9800019999
+"IDFC FIRST: You have been selected for Rs.1,00,000 cashback. Download our app http://is.gd/idfcapp Enter your card PIN to claim",fake,fake_rewards,IDFC,8899112233
+"Axis Bank: Security alert - unusual activity on A/c. Call <PHONE> IMMEDIATELY. Share your card details to block fraudulent txn",fake,account_blocked,Axis,9699001122
