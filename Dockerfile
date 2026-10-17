@@ -5,6 +5,8 @@ WORKDIR /workspace
 COPY mvnw mvnw.cmd ./
 COPY .mvn .mvn
 COPY pom.xml .
+# Fix execute permission (Windows doesn't preserve Linux permissions)
+RUN chmod +x mvnw
 # Download dependencies first (cached layer)
 RUN ./mvnw dependency:go-offline -q
 
