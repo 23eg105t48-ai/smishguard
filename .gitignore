@@ -1,0 +1,32 @@
+# Compiled output
+target/
+dist/
+
+# Node
+node_modules/
+.npm
+
+# Secrets – NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+*.iml
+.vscode/settings.json
+.eclipse/
+*.classpath
+*.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Maven wrapper cache
+.mvn/wrapper/maven-wrapper.jar
