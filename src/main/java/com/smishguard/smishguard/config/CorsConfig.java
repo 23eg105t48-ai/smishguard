@@ -6,11 +6,11 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-/** Global CORS configuration – allowed origins come from the ALLOWED_ORIGINS env var. */
+/** Global CORS configuration â€“ allowed origins come from the ALLOWED_ORIGINS env var. */
 @Configuration
 public class CorsConfig {
 
-    @Value("${app.allowed-origins:http://localhost:5173}")
+    @Value("${app.allowed-origins:http://localhost:5173,http://localhost:5174,https://23eg105t48-ai.github.io}")
     private String allowedOrigins;
 
     @Bean
@@ -19,7 +19,7 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/api/**")
-                    .allowedOrigins(allowedOrigins.split(","))
+                    .allowedOriginPatterns("*")
                     .allowedMethods("GET", "POST", "OPTIONS")
                     .allowedHeaders("*");
             }
