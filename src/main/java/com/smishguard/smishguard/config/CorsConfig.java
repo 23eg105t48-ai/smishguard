@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-/** Global CORS configuration â€“ allowed origins come from the ALLOWED_ORIGINS env var. */
+/** Global CORS configuration – allowed origins come from the ALLOWED_ORIGINS env var. */
 @Configuration
 public class CorsConfig {
 
